@@ -23,6 +23,7 @@
 
 - No defined variable type
 - Dynamic typing
+- Use snake_case for variable names
 
 # Lists
 
@@ -43,4 +44,4 @@
 ## Functions
 
 - Use def to declare functions
-- Lists and dictionaries are passed by reference
+- Lists and dictionaries are passed by reference, meaning if you mutate them inside the function you also mutate the original array/dict.
