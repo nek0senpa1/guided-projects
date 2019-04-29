@@ -44,7 +44,7 @@
 ## Functions
 
 - Use def to declare functions
-- Lists and dictionaries are passed by reference, meaning if you mutate them inside the function you also mutate the original array/dict.
+- Lists and dictionaries are passed by reference, meaning if you mutate them inside the function you also mutate the original list/dict.
 
 # pipenv
 
