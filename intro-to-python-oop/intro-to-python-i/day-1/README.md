@@ -19,18 +19,18 @@
 - Reps, build toy programs
 - Redbuild things you've previously built
 
-# Variables
+## Variables
 
 - No defined variable type
 - Dynamic typing
 - Use snake_case for variable names
 
-# Lists
+## Lists
 
 - Like arrays
 - Use a for-in loop or use the range library
 
-# Tuples
+## Tuples
 
 - Immutable
 - Need trailing commas for tuples with one item
@@ -45,3 +45,13 @@
 
 - Use def to declare functions
 - Lists and dictionaries are passed by reference, meaning if you mutate them inside the function you also mutate the original array/dict.
+
+## Links
+
+- Links
+  - [Python main site](https://www.python.org/)
+  - [Python official docs](https://docs.python.org/3/)
+  - [Python-to-JS cheatsheet](https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet)
+  - [Python tutorials with interactive examples](https://www.learnpython.org/en/)
+  - [XKCD: Python (2007)](https://xkcd.com/353/)
+  - [XKCD: Python Environment (2018)](https://xkcd.com/1987/)
