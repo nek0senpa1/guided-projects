@@ -1,6 +1,6 @@
 # import doesn't work without pip
-# import requests
-from requests import get
+# import requests <-- for everything
+from requests import get  # <-- just one module
 
 url = "https://icanhazdadjoke.com/"
 
