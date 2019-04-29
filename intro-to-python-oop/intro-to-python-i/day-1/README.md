@@ -46,6 +46,11 @@
 - Use def to declare functions
 - Lists and dictionaries are passed by reference, meaning if you mutate them inside the function you also mutate the original array/dict.
 
+# pipenv
+
+- Normalizes the version of python being used while in the virtual environment.
+- Not required unless you're using a module outside of the standard library.
+
 ## Links
 
 - Links
