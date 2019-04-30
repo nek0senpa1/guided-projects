@@ -18,9 +18,6 @@ choices = ['r', 'p', 's']
 
 
 def compare_answers(player_choice, ai_choice):
-    # returns 0 for a tie
-    # returns 1 for a win
-    # returns -1 for a loss
     # changes variables to local scope
     global ties
     global wins
