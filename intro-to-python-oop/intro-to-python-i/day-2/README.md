@@ -10,4 +10,5 @@
 ## Links
 
 [Python tutor](http://pythontutor.com/visualize.html)
+
 [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
