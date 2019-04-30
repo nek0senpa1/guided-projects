@@ -18,7 +18,7 @@ choices = ['r', 'p', 's']
 
 
 def compare_answers(player_choice, ai_choice):
-    # changes variables to local scope
+    # changes variables to global scope
     global ties
     global wins
     global losses
