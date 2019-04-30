@@ -1,4 +1,4 @@
-# Intro to Python I - Day 1
+# Intro to Python I - Day 2
 
 ## What does it mean to be pythonic?
 
