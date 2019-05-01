@@ -17,7 +17,3 @@ def add_to_list(added_list):
 add_to_list(a)
 
 print(a)
-
-
-def func():
-    return func()
